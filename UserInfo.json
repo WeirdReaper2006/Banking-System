@@ -1,0 +1,79 @@
+{
+    "00001": {
+        "Password": "pass1",
+        "UserName": "Ammar",
+        "Balance": "7000",
+        "Contact": "03212345678",
+        "Email": "ammar@gmail.com"
+    },
+    "00002": {
+        "Password": "pass2",
+        "Balance": "5000",
+        "UserName": "Rayyan",
+        "Contact": "03006969420",
+        "Email": "rayyan@gmail.com"
+    },
+    "00003": {
+        "Password": "pass3",
+        "Balance": "1000",
+        "UserName": "Shaheer",
+        "Contact": "03007654321",
+        "Email": "shaheer@gmail.com"
+    },
+    "00004": {
+        "Password": "pass4",
+        "Balance": "100",
+        "UserName": "Sara",
+        "Contact": "03001112233",
+        "Email": "sara@gmail.com"
+    },
+    "00005": {
+        "Password": "pass5",
+        "Balance": "1200",
+        "UserName": "Ali",
+        "Contact": "03004455667",
+        "Email": "ali@gmail.com"
+    },
+    "00006": {
+        "Password": "pass6",
+        "Balance": "500",
+        "UserName": "Fatima",
+        "Contact": "03007788990",
+        "Email": "fatima@gmail.com"
+    },
+    "00007": {
+        "Password": "pass7",
+        "Balance": "1000",
+        "UserName": "Hassan",
+        "Contact": "03009876543",
+        "Email": "hassan@gmail.com"
+    },
+    "00008": {
+        "Password": "pass8",
+        "Balance": "15000",
+        "UserName": "Zara",
+        "Contact": "03001239876",
+        "Email": "zara@gmail.com"
+    },
+    "00009": {
+        "Password": "pass9",
+        "Balance": "5000",
+        "UserName": "Omar",
+        "Contact": "03005432109",
+        "Email": "omar@gmail.com"
+    },
+    "00010": {
+        "Password": "pass10",
+        "Balance": "2000",
+        "UserName": "Sibbika",
+        "Contact": "03001234567",
+        "Email": "sibbika@gmail.com"
+    },
+    "00011": {
+        "Password": "pass11",
+        "Balance": "0",
+        "UserName": "Jamal",
+        "Contact": "03216549872",
+        "Email": "jamal@gmail.com"
+    }
+}
